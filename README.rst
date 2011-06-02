@@ -1,10 +1,13 @@
 OpenInSublimeText.app Notes
-=============================
+===========================
 
-About Open in OpenInSublimeText
-----------------------------------
-This is a complete rip from Henrik Nyh's "Open in Textmate" gadget:
-http://henrik.nyh.se/2007/10/open-in-textmate-from-leopard-finder
+About OpenInSublimeText
+-----------------------
+
+OpenInSublimeText is a complete rip from Henrik Nyh's
+`Open in Textmate <http://henrik.nyh.se/2007/10/open-in-textmate-from-leopard-finder>`_
+gadget:
+
 
 Thanks to Henrik for putting that handy little gadget together!
 
@@ -13,7 +16,7 @@ and lightly hacked Nyh's stuff to point at Sublime Text. Then, hacked
 a little icon together to make it all nice.
 
 
-installing the OpenInSublimeText gadget
+Installing the OpenInSublimeText gadget
 ---------------------------------------
 Here's how I'd do it:
 
@@ -28,12 +31,21 @@ If you have questions you can send me a note.
 
 
 Credits
---------
-**Original goodness**
+-------
+
+Original goodness
++++++++++++++++++
+
   `Henrik Nyh <http://henrik.nyh.se/2007/10/open-in-textmate-from-leopard-finder>`_
 
   Thanks, dude!
 
+Sublime Text 2
+++++++++++++++
+
+If you are looking for a configurable, quick and dirty text editor
+for OS X, give `Sublime Text 2 <http://www.sublimetext.com/2>`_ a go.
+Totally awesome!
 
 **Mere hacks**
   `Kurt Bendl <http://tool.net/>`_
