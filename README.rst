@@ -1,6 +1,8 @@
 OpenInSublimeText.app Notes
 ===========================
 
+This does not install exactly as described, it actually takes some fiddling with AppleScript and stuff. Follow these steps with a large grain of Na.
+
 About OpenInSublimeText
 -----------------------
 
