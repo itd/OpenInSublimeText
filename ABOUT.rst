@@ -1,9 +1,7 @@
 OpenInSublimeText.app Notes
 ===========================
 
-The below instructions do not install exactly as described, it actually takes some fiddling with AppleScript and stuff. Follow these steps with a large grain of Na.
-
-July 1, 2011: Added a OIST2.app file (by saving the Apple Script here as a .app) that you should be able to just drag to the OSX Finder windows button area. Then just click the script app button and the currently selected file or window will be opened in Sublime Text 2 (assuming you installed THAT beforehand, of course). 
+This is old news, from the original rip.
 
 
 About OpenInSublimeText
