@@ -1,6 +1,9 @@
 OpenInSublimeText.app Notes
 ===========================
 
+This is old news, from the original rip.
+
+
 About OpenInSublimeText
 -----------------------
 
