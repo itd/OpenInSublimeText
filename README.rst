@@ -28,7 +28,7 @@ Here's how I'd do it:
     cd /Applications/scripts
     git clone https://github.com/itd/OpenInSublimeText.git OpenInSublimeText.app
 
-#. Drop the ``OpenInSublimeText`` app on the toolbar.
+#. Drop the ``OpenInSublimeText`` app on the toolbar.c
 
 Well, that's about it. You're ready to go!
 
