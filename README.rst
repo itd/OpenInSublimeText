@@ -23,7 +23,12 @@ Here's how I'd do it:
 #. Make a ``scripts`` folder in your Applications folder
 #. Download a copy (or git clone) of OpenInSublimeText.app
    and drop it in that scripts folder.
-#. Drop the ``OpenInSublimeText`` app on the toolbar
+   Example (from the Terminal):
+    mkdir /Applications/scripts
+    cd /Applications/scripts
+    git clone https://github.com/itd/OpenInSublimeText.git OpenInSublimeText.app
+
+#. Drop the ``OpenInSublimeText`` app on the toolbar.
 
 Well, that's about it. You're ready to go!
 
